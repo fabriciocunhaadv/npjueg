@@ -1,6 +1,4 @@
-# npjueg
-REGULAMENTO DO NÚCLEO DE PRÁTICAS JURÍCIDAS DO CURSO DE DIREITO
-DA UNIVERSIDADE ESTADUAL DE GOIÁS
+# REGULAMENTO DO NÚCLEO DE PRÁTICAS JURÍCIDAS DO CURSO DE DIREITO DA UNIVERSIDADE ESTADUAL DE GOIÁS
 CAPÍTULO I – DAS DISPOSIÇÕES GERAIS
 Art. 1º. Este Regulamento rege as atividades do Núcleo de Práticas Jurídicas (NPJ), do Laboratório
 Jurídico de Assistência Judiciária (LAJU) e das Clínicas Jurídicas (CLIJU) criadas no âmbito

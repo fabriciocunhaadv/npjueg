@@ -1,6 +1,0 @@
-<?php
-CAPÍTULO I – DAS DISPOSIÇÕES GERAIS
-Art. 1º. Este arquivo rege a forma de atendimento (triagem) e o fluxo de processos, arquivos e peças do Núcleo de Práticas Jurídicas de Iporá (NPJ), devendo ser observado pelos estagiários e docentes-orientadores.
-Art. 2º. O sistema adotado pelo NPJ é o Perfex CRM, cujo código fonte é aberto, sendo que, as atualizações serão adquiridas.
-Art. 3º. A aplicação do Perfex CRM está hospedado no servidor npjipora.ueg.br.
-?>
